@@ -15,26 +15,6 @@
 * [NPM IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Adds IntelliSense for npm modules in your code. 
 * [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocompletes filenames in your code. 
 
-
-## Changelog
-
-## [1.0.0] - 2015-02-17
-### Added
-- Link, and make it obvious that date format is ISO 8601.
-
-### Changed
-- Update year to match in every README example.
-- Reluctantly stop making fun of Brits only, since most of the world writes dates in a strange way.
-
-### Fixed
-- Fix typos in recent README changes.
-- Update outdated unreleased diff link.
-
-
-## Credits
-
-Credits to [icons8](https://icons8.com/) for the tomato logo, under the [Creative Commons Attribution-NoDerivs 3.0 Unported](https://icons8.com/license/) licence.
-
 ## License
 
 The source code for this extension is licensed under the [MIT](./LICENSE.md) license.
