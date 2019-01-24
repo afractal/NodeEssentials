@@ -1,0 +1,25 @@
+{
+    "name": "node-essentials",
+    "displayName": "NodeEssentials",
+    "description": "Essential extensions for node development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "be5invis.vscode-icontheme-nomo-dark", 
+        "christian-kohler.path-intellisense", 
+        "EditorConfig.EditorConfig", 
+        "eg2.tslint", 
+        "jpoissonnier.vscode-styled-components", 
+        "mikestead.dotenv", 
+        "msjsdiag.debugger-for-chrome", 
+        "PeterJausovec.vscode-docker", 
+        "redhat.vscode-yaml", 
+        "shinnn.stylelint", 
+        "WallabyJs.quokka-vscode"
+    ]
+}
