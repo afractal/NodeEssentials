@@ -2,10 +2,26 @@
   "name": "node-essentials",
   "displayName": "NodeEssentials",
   "description": "Essential extensions for node development",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "publisher": "afractal",
+  "license": "MIT",
+  "homepage": "https://github.com/afractal/NodeEssentials",
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afractal/NodeEssentials.git"
+  },
   "engines": {
     "vscode": "^1.30.0"
   },
+  "galleryBanner": {
+    "theme": "light"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "nodejs"
+  ],
   "categories": [
     "Extension Packs"
   ],
