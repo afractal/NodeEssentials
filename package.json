@@ -1,6 +1,6 @@
 {
   "name": "node-essentials",
-  "displayName": "NodeEssentials",
+  "displayName": "Node Essentials",
   "description": "Essential extensions for node development",
   "version": "1.0.0",
   "publisher": "afractal",
@@ -19,24 +19,28 @@
   },
   "keywords": [
     "javascript",
-    "node",
     "nodejs"
   ],
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
+    "msjsdiag.debugger-for-chrome",
+    "redhat.fabric8-analytics",
+    "peterjausovec.vscode-docker",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "orta.vscode-jest",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
     "be5invis.vscode-icontheme-nomo-dark",
     "christian-kohler.path-intellisense",
-    "EditorConfig.EditorConfig",
-    "eg2.tslint",
-    "jpoissonnier.vscode-styled-components",
-    "mikestead.dotenv",
-    "msjsdiag.debugger-for-chrome",
-    "PeterJausovec.vscode-docker",
-    "redhat.vscode-yaml",
-    "shinnn.stylelint",
-    "WallabyJs.quokka-vscode",
-    "eamodio.gitlens"
+    "wallabyjs.quokka-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "visualstudioexptteam.vscodeintellicode",
+    "ms-vsliveshare.vsliveshare",
+    "redhat.vscode-yaml"
   ]
 }
