@@ -1,7 +1,7 @@
 {
   "name": "node-essentials",
   "displayName": "Node Essentials",
-  "description": "Essential extensions for node development",
+  "description": "Essential extensions for node development and collaboration.",
   "version": "1.0.0",
   "publisher": "afractal",
   "license": "MIT",
