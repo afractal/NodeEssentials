@@ -41,7 +41,6 @@ This pack includes some extensions that help with developing node.js application
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes and Kedge syntax support. 
 
 
-
 ## License
 
 The source code for this extension is licensed under the [MIT](./LICENSE.md) license.
