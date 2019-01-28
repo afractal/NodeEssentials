@@ -2,7 +2,7 @@
   "name": "node-essentials",
   "displayName": "Node Essentials",
   "description": "Essential extensions for node development and collaboration.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "afractal",
   "license": "MIT",
   "homepage": "https://github.com/afractal/NodeEssentials",
@@ -42,6 +42,7 @@
     "ms-vscode.vscode-typescript-tslint-plugin",
     "visualstudioexptteam.vscodeintellicode",
     "ms-vsliveshare.vsliveshare",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "github.vscode-pull-request-github"
   ]
 }
